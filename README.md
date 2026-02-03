@@ -49,7 +49,7 @@ MLRUn will write a result summary as a comment back into your PR with links to m
 
 **MLRun UI showing the AutoML results (linked to from the PR)**
 
-<br><p align="center"><img src="<img width="3803" height="1405" alt="mlrun18" src="https://github.com/user-attachments/assets/14713072-64fa-4f73-8b5e-aaef5cd1f8d0" />
+<br><p align="center">"<img width="3803" height="1405" alt="mlrun18" src="https://github.com/user-attachments/assets/14713072-64fa-4f73-8b5e-aaef5cd1f8d0" />
 
 
 
