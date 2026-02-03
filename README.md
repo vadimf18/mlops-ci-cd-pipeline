@@ -35,7 +35,8 @@ MLRUn will write a result summary as a comment back into your PR with links to m
 
 **Flow diagram:**
 
-<br><p align="center"><img src="docs/flow.png" width="800"/></p><br>
+<br><p align="center"><img src="<img width="1606" height="465" alt="flow1" src="https://github.com/user-attachments/assets/dfd9c525-537f-4116-ae8f-26dda1fb6953" />
+" width="800"/></p><br>
 
 **This is an example of the summary report sent to `Slack`:**
 
