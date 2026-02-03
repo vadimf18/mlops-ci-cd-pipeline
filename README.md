@@ -40,7 +40,8 @@ MLRUn will write a result summary as a comment back into your PR with links to m
 
 **This is an example of the summary report sent to `Slack`:**
 
-<br><p align="center"><img src="docs/slack.png" width="400"/></p><br> 
+<br><p align="center"><img src="<img width="629" height="369" alt="slack1" src="https://github.com/user-attachments/assets/2a079df0-35e8-4338-9961-4b7b3773d771" />
+" width="400"/></p><br> 
 
 **The Kubeflow pipeline graph**
 
@@ -72,7 +73,7 @@ Or use [**iguazio data science platform**](https://www.iguazio.com/) with all of
 
 #### 1. Copy this repo to your own GitHub account by clicking the `Use this template` button 
 
-<br><p align="center"><img src="<img width="629" height="369" alt="slack1" src="https://github.com/user-attachments/assets/0927629d-d9d5-4e09-b888-864e0f47c16b" />
+<br><p align="center"><img src="
 " width="600"/></p><br> 
 
 #### 2. Configure the required secrets and addresses
