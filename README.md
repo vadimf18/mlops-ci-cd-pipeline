@@ -35,12 +35,12 @@ MLRUn will write a result summary as a comment back into your PR with links to m
 
 **Flow diagram:**
 
-<br><p align="center"><img src="<img width="1606" height="465" alt="flow1" src="https://github.com/user-attachments/assets/dfd9c525-537f-4116-ae8f-26dda1fb6953" />
+<br><p align="center"><img width="1606" height="465" alt="flow1" src="https://github.com/user-attachments/assets/dfd9c525-537f-4116-ae8f-26dda1fb6953" />
 
 
 **This is an example of the summary report sent to `Slack`:**
 
-<br><p align="center"><img src="<img width="629" height="369" alt="slack1" src="https://github.com/user-attachments/assets/2a079df0-35e8-4338-9961-4b7b3773d771" />
+<br><p align="center"><img width="629" height="369" alt="slack1" src="https://github.com/user-attachments/assets/2a079df0-35e8-4338-9961-4b7b3773d771" />
 
 **The Kubeflow pipeline graph**
 
