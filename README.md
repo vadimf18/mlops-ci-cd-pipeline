@@ -75,8 +75,9 @@ Or use [**iguazio data science platform**](https://www.iguazio.com/) with all of
 
 #### 1. Copy this repo to your own GitHub account by clicking the `Use this template` button 
 
-<br><p align="center"><img src="
-" width="600"/></p><br> 
+<br><p align="center">"<img width="1004" height="110" alt="use-this18" src="https://github.com/user-attachments/assets/f5b2396c-3edb-4fa7-86d7-b6a24a722204" />
+
+" 
 
 #### 2. Configure the required secrets and addresses
 
