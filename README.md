@@ -44,7 +44,8 @@ MLRUn will write a result summary as a comment back into your PR with links to m
 
 **The Kubeflow pipeline graph**
 
-<br><p align="center"><img src="docs/pipeline.png" width="600"/></p><br>
+<br><p align="center"><"<img width="1391" height="819" alt="pipelin18" src="https://github.com/user-attachments/assets/0d5c5123-7930-4153-b690-a962a51b7999" />
+" 
 
 **MLRun UI showing the AutoML results (linked to from the PR)**
 
